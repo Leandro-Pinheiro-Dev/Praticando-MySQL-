@@ -149,5 +149,4 @@ Contribuições são bem-vindas! Para contribuir, siga os seguintes passos:
 4. Envie para o repositório remoto (`git push origin feature/nova-funcionalidade`).
 5. Abra um pull request.
 
-## Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
